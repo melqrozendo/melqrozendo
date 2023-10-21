@@ -14,7 +14,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--Bloco 1-->
-<h2>Olá, me chamo Melq Rozendo!</h2>
+
+<h2>Olá, me chamo Melq Rozendo!</h2> 
+<a href="https://www.linkedin.com/in/melquisedeque-rozendo-118275195/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<h3><strong>Software Developer Web e Mobile utilizando os Stacks tecnológicos:</strong></h3>
+<div style="display: inline_block"> 
+    <img align="center" alt="melq-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="melq-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="melq-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="melq-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt="melq-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="melq-sql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+</div>
+<br>
+  
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=melqrozendo&show_icons=true&theme=dark"
@@ -26,28 +40,6 @@ Here are some ideas to get you started:
 />
 <img src="https://github-readme-stats.vercel.app/api?username=melqrozendo&show_icons=true" />
 </picture>
-<!--Bloco 2-->
-<div style="display: inline_block"><br>
 
-  <p><strong>Tecnologias de Front-end</strong></p>
-  
-  <img align="center" alt="melq-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="melq-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="melq-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="melq-vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-          
-  <br>
-  <p><strong>Tecnologias de Back-end</strong></p>
-  
-  <img align="center" alt="melq-php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="melq-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   
-  <br>       
-  <p><strong>Banco de Dados</strong></p>
-  
-  <img align="center" alt="melq-sql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-          
-   <br>
-   <br>
-  <a href="https://www.linkedin.com/in/melquisedeque-rozendo-118275195/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<!--Bloco 1-->
      
